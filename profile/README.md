@@ -1,4 +1,4 @@
-# Investbrain 
+# 🧠 Investbrain 
 
 Investbrain is an AI-powered investment portfolio tracker that offers casual investors the ability to make more informed investment decisions.
 
